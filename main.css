@@ -5,3 +5,8 @@ html, body {
 h1 {
     font-family: roboto;
 }
+.jumbotron {
+    display: flex;
+    align-items: center;
+    
+}
