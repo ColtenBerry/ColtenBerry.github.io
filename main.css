@@ -7,6 +7,6 @@ h1 {
 }
 .jumbotron {
     display: flex;
-    align-items: center;
-    
+    background-image: url("https://live.staticflickr.com/8429/7594254448_80f7667b92_m.jpg");
+    background-size: cover;
 }
