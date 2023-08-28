@@ -11,3 +11,7 @@ h1 {
     background-size: cover;
     color: red;
 }
+.jumbotron h2 {
+    color: red;
+    font-size: 48 px;
+}
