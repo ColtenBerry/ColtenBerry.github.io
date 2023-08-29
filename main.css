@@ -4,6 +4,7 @@ html, body {
 
 h1 {
     font-family: roboto;
+    color: red;
 }
 .jumbotron {
     display: flex;
