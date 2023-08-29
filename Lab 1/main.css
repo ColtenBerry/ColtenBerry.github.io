@@ -1,10 +1,10 @@
-body {
+html, body {
     font-family: sans-serif;
-    color: red;
 }
 
 h1 {
-    font-family: Wavefont;
+    font-family: roboto;
+    color: red;
 }
 .jumbotron {
     display: flex;
