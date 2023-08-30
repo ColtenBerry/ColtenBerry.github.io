@@ -17,5 +17,5 @@ html, body {
 }
 
 .list {
-    text-align: center;
+    align-items: center;
 }
