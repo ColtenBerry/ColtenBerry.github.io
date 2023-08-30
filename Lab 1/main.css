@@ -12,9 +12,8 @@ html, body {
 }
 
 .picture {
-    margin: 0 0 30px;
+    margin: 0 50px 30px;
     width: 100%;
-    height: 75%;
 }
 
 .list {
