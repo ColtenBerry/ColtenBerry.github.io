@@ -2,8 +2,9 @@ html, body {
     font-family: sans-serif;
 }
 
-h1 {
+.title{
     font-family: 'Libre BaskerVille', serif;
+    margin: 30px;
 }
 .jumbotron {
     display: flex;
@@ -11,7 +12,7 @@ h1 {
 }
 
 .picture {
-  margin-top: 20px;
+  margin: 20px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
