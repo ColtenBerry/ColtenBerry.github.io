@@ -12,7 +12,7 @@ html, body {
 }
 
 .picture {
-    align-items: center;
+    /* align-items: center; */
     width: 100%
 }
 
