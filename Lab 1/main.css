@@ -17,6 +17,9 @@ html, body {
 }
 
 .list {
-    margin-top: 50px;
+    padding-top: 50px;
     align-items: center;
+}
+.throne_pic {
+    height: 75%
 }
