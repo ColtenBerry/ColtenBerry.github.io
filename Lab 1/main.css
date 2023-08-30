@@ -17,5 +17,6 @@ html, body {
 }
 
 .list {
+    padding-top: 50px;
     align-items: center;
 }
