@@ -12,7 +12,7 @@ html, body {
 }
 
 .picture {
-    margin: 0 50px 30px;
+    align-items: center;
 }
 
 .list {
