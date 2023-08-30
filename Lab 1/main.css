@@ -8,11 +8,10 @@ html, body {
 }
 .jumbotron {
     display: flex;
-    background-size: cover;
+    align-items: center;
 }
 
 .picture {
-  margin: 20px;
-  height: 100px;
-  width: 100px;
+    margin: 0 0 30px;
+    width: 100%
 }
