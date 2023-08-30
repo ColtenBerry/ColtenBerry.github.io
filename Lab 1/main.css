@@ -9,3 +9,10 @@ h1 {
     display: flex;
     background-size: cover;
 }
+
+.picture {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
