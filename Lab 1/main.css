@@ -13,7 +13,7 @@ html, body {
 
 .picture {
     /* align-items: center; */
-    margin-bottom: 100px;
+    margin-bottom: 75px;
     width: 100%
 }
 
@@ -22,5 +22,6 @@ html, body {
     align-items: center;
 }
 .throne_pic {
-    height: 85%
+    height: 85%;
+    margin-bottom: 75px;
 }
