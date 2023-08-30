@@ -13,6 +13,7 @@ html, body {
 
 .picture {
     align-items: center;
+    width: 100%
 }
 
 .list {
